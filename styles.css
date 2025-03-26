@@ -1,0 +1,218 @@
+
+nav ul{
+    list-style: none;
+    display: flex;
+    margin-left: 30%;
+    gap: 0.5cm;
+}
+#dit.io{
+    gap: 10cm;
+}
+.info{
+    display: flex;
+   
+    gap: 5cm;
+    justify-content: center;
+    align-items: center;
+    margin-left: 60px;
+}
+#profile{
+    width: 10%;
+    margin-top: 50px;
+}
+.about{
+    background-color: rgb(230, 218, 230);
+   
+}
+.info-right{
+    margin-bottom: 80px;
+    width: 30%;
+    transform: rotate(-10deg);
+   
+}
+.upload{
+    display: flex;
+    background-color: white;
+    width: 60%;
+
+
+}
+.amount{
+    display: flex;
+}
+.salary{
+    background-color: white;
+    padding-left: 39px;
+}
+#image1{
+    
+    
+}
+.amount img{
+    margin-left: 15%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.value{
+    margin-left: 42px;
+    margin-top: 30px;
+    
+    
+}
+p1{
+    justify-content: center;
+    display: flex;
+}
+.software-business{
+    display: flex;
+    width: 20%;
+    gap: 3.3cm;
+}
+#trello{
+   width: 80%; 
+   height: 40%;
+   margin-top: 10px;
+}
+#microsoft{
+    width: 60%;
+    height: 5%;
+}
+#google{
+    width:80% ;
+    height: 9%;
+    margin-top: 15px;
+}
+#dropbox{
+    width: 80%;
+    height: 5%;
+    margin-top: 19px;
+}
+#slack{
+    width: 60%;
+    height: 5%;
+    margin-top: 19px;
+}
+
+.products{
+    display: flex;
+    justify-content: center; 
+    gap: 10cm;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.product{
+    background-color: rgb(240, 229, 240);
+}
+.interface{
+    background-color: rgb(247, 232, 247);
+    border: 1px solid purple;
+    width: 10%;
+    
+}
+.transfers{
+    background-color: rgb(247, 232, 247);
+}
+.support{
+    background-color: rgb(247, 232, 247);
+}
+.statistics{
+    display: flex;
+    justify-content: center;
+    gap: 10cm;
+}
+
+
+.users{
+    display: flex;
+}
+
+.create-account{
+    display: flex;
+    
+
+}
+.stat-subscribers{
+    display: flex;
+    gap: 2cm;
+}
+.statistics-right{
+    display: flex;
+}
+.explanation{
+    display: flex;
+    justify-content: center;
+}
+.helping-services{
+    display: flex;
+    justify-content: center;
+    gap: 20cm;
+
+}
+.title{
+    display: flex;
+    justify-content: center;
+}
+#study-image{
+    width: 30%;
+    margin-top: 200px;
+    margin-left: 90px;
+}
+#image{
+    width: 50%;
+    margin-top: 100px;
+}
+.helping-serv{
+    display: flex;
+    justify-content: center;
+    gap: 10cm;
+}
+.social-app{
+    display: flex;
+    gap: 5cm;
+    background-color: rgb(243, 239, 235);
+    transform: rotate(+5deg);
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.testimonies{
+    display: flex;
+    justify-content: center;
+}
+.testimonials{
+    display: flex;
+    justify-content: center;
+    gap: 12cm;
+}
+.app-info{
+    display: flex;
+    justify-content: center;
+    gap: 12cm;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(136, 111, 136);
+    gap: 4cm;
+}
+.services ul{
+    list-style: none;
+    line-height: 1cm;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.more-info{
+    background-color: black;
+    color: wheat;
+}
+
+
+
+
+
+
